@@ -6,6 +6,7 @@
     width: 100%;
     margin: 0 auto 0 0;
     padding: .5rem .5rem 4rem 7rem;
+    max-width: 1280px
 }
 
 .red {color: #a82300}
