@@ -4,9 +4,10 @@
 
 #container {
     width: 100%;
-    margin: 0 auto 0 0;
-    padding: .5rem .5rem 4rem 7rem;
+    margin: 0 auto 0 auto;
+    padding: .5rem .5rem 4rem .5rem;
     max-width: 1280px
+        
 }
 
 .red {color: #a82300}
