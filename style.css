@@ -65,8 +65,9 @@ li {
 
 #icons {
     float: right;
-    width: 400px;
+    width: 300px;
     padding-left: 2rem;
+    padding-top: 1.5rem;
 }
 
 #sign {
