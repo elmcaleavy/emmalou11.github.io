@@ -90,18 +90,22 @@ li {
     #content {
         width: 100%;
     }
-      #pp1 {
-    padding-right: 0;
-}
+    #pp1 {
+        padding-right: 0;
+    }
     #container {
-    padding: .5rem 1rem .5rem 1rem;
+        padding: .5rem 1rem .5rem 1rem;
+    }
 }
 
 @media (max-width: 480px) {
     #icons {
-        display: none;}
-    ul {text-align: left}
-    li {display: block
+        display: none;
     }
-  
+    ul {
+        text-align: left;
     }
+    li {
+        display: block;
+    }
+}
