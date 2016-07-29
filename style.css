@@ -100,9 +100,7 @@ li {
 }
 
 @media (max-width: 480px) {
-    #icons {
-        display: none;
-    }
+   
     ul {
         text-align: left;
     }
