@@ -54,12 +54,12 @@ header {
     font: "helvetica"
 }
 
-ul {
+nav ul {
     text-align: center;
     padding-left: 0;
 }
 
-li {
+nav li {
     display: inline-block;
     margin-left: 1rem;
     margin-right: 1rem;
@@ -77,14 +77,7 @@ a:hover {color: dimgrey;}
     width: 300px;
     padding-left: 2rem;
     padding-top: 1.5rem;
-}
-.helplist {
-    ul {
-        text-align: left;
-    }
-    li {display: inline;
-    list-style: circle}
-}
+
 #sign {
     font-family: "Rouge Script", cursive;
     font-size: 32pt;
