@@ -78,9 +78,13 @@ a:hover {color: dimgrey;}
     padding-left: 2rem;
     padding-top: 1.5rem;
 }
-
-.helplist {text-align: left;}
-
+.helplist {
+    ul {
+        text-align: left;
+    }
+    li {display: inline;
+    list-style: circle}
+}
 #sign {
     font-family: "Rouge Script", cursive;
     font-size: 32pt;
