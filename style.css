@@ -13,6 +13,8 @@
     color: #a82300
 }
 
+
+
 h1,
 h2,
 h3,
@@ -76,6 +78,8 @@ a:hover {color: dimgrey;}
     padding-left: 2rem;
     padding-top: 1.5rem;
 }
+
+#helplist {text-align: left;}
 
 #sign {
     font-family: "Rouge Script", cursive;
